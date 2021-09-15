@@ -54,13 +54,14 @@ Following code snippets is used to create Azure DevOps Wiki Page with some conte
         
  ## Read Azure DevOps Wiki Page Content
  Following method is used to read content from Azure DevOps Wiki Page
+ 
  public static async Task<string> ReadWikiPageContent(HttpClient client)
         {
             // Build the URI for creating Work Item.
             string uri = String.Join("&", String.Join("/", Azure.BASE, Azure.ORG, Azure.PROJECT, "_apis/wiki/wikis", Azure.WikiIdentifier, "pages?path=/" + Azure.PageName + "&includeContent=True"), Azure.API);
             try
             {
-                // Send asynchronous POST request.
+                // Send asynchronous Get request.
                 using (HttpResponseMessage response = await client.GetAsync(uri))
                 {
                     response.EnsureSuccessStatusCode();
@@ -76,3 +77,4 @@ Following code snippets is used to create Azure DevOps Wiki Page with some conte
                 return string.Empty;
             }
         }
+           
