@@ -1,15 +1,14 @@
 # AzureDevOpsAPI-POC
-Sample C# console application to call Azure DevOps API
+## Sample C# console application to call Azure DevOps API
+            Replace following variables with your own Azure DevOps environment variables
+                        public const string BASE = "https://dev.azure.com";
+                        public const string PAT = "";
+                        public const string ORG = "";
+                        public const string API = "api-version=6.0";
+                        public const string PROJECT = "Demo-Project";
+                        public const string WikiIdentifier = "Demo-Project.wiki";
+                        public const string PageName = "Azure Wiki Page TesT";
 
-Replace following variables with your own Azure DevOps environment variables
-            public const string BASE = "https://dev.azure.com";
-            public const string PAT = "";
-            public const string ORG = "";
-            public const string API = "api-version=6.0";
-            public const string PROJECT = "Demo-Project";
-            public const string WikiIdentifier = "Demo-Project.wiki";
-            public const string PageName = "Azure Wiki Page TesT";
-            
 ## Authenticate Azure DevOps using PAT (Personal Access Token)
 following code snippet is used to authenticate console application written in C# to authenticate Azure DevOPS. read write permission should be given to PAT.
 
