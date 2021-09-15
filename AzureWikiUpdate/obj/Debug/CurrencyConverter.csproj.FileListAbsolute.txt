@@ -1,0 +1,21 @@
+F:\PROJECTS\VISUAL PROGRAMMING PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+F:\PROJECTS\VISUAL PROGRAMMING PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+F:\PROJECTS\VISUAL PROGRAMMING PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+F:\PROJECTS\VISUAL PROGRAMMING PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+F:\PROJECTS\VISUAL PROGRAMMING PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+F:\PROJECTS\VISUAL PROGRAMMING PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+F:\PROJECTS\VISUAL PROGRAMMING PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+F:\PROJECTS\VISUAL PROGRAMMING PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+F:\PROJECTS\VISUAL PROGRAMMING PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete

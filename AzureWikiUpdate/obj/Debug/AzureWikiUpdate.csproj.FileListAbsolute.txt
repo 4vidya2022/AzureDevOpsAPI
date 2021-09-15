@@ -1,0 +1,59 @@
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\AzureWikiUpdate.csproj.GenerateResource.cache
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\AzureWikiUpdate.csproj.CoreCompileInputs.cache
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\AzureWikiUpdate.csproj.CopyComplete
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\AzureWikiUpdate\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\AzureWikiUpdate\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.csproj.AssemblyReference.cache
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.csproj.GenerateResource.cache
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.csproj.CoreCompileInputs.cache
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.csproj.CopyComplete
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\AzureWikiUpdate\CurrencyConverter\bin\Debug\AzureWikiUpdate.exe.config
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\AzureWikiUpdate\CurrencyConverter\bin\Debug\AzureWikiUpdate.exe
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\AzureWikiUpdate\CurrencyConverter\bin\Debug\AzureWikiUpdate.pdb
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.Properties.Resources.resources
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.exe
+E:\Saddam Official\Organizational Material\Projects\.Net PROJECTS\TEST PROJECTS\C#\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.pdb
+C:\Users\Lenovo\Desktop\AzureWikiUpdate\CurrencyConverter\bin\Debug\AzureWikiUpdate.exe.config
+C:\Users\Lenovo\Desktop\AzureWikiUpdate\CurrencyConverter\bin\Debug\AzureWikiUpdate.exe
+C:\Users\Lenovo\Desktop\AzureWikiUpdate\CurrencyConverter\bin\Debug\AzureWikiUpdate.pdb
+C:\Users\Lenovo\Desktop\AzureWikiUpdate\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\AzureWikiUpdate\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.exe
+C:\Users\Lenovo\Desktop\AzureWikiUpdate\CurrencyConverter\obj\Debug\AzureWikiUpdate.pdb
+E:\AzureWikiUpdate\AzureWikiUpdate\bin\Debug\AzureWikiUpdate.exe.config
+E:\AzureWikiUpdate\AzureWikiUpdate\bin\Debug\AzureWikiUpdate.exe
+E:\AzureWikiUpdate\AzureWikiUpdate\bin\Debug\AzureWikiUpdate.pdb
+E:\AzureWikiUpdate\AzureWikiUpdate\bin\Debug\Newtonsoft.Json.dll
+E:\AzureWikiUpdate\AzureWikiUpdate\bin\Debug\Newtonsoft.Json.xml
+E:\AzureWikiUpdate\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.csproj.AssemblyReference.cache
+E:\AzureWikiUpdate\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.Properties.Resources.resources
+E:\AzureWikiUpdate\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.csproj.GenerateResource.cache
+E:\AzureWikiUpdate\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.csproj.CoreCompileInputs.cache
+E:\AzureWikiUpdate\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.csproj.CopyComplete
+E:\AzureWikiUpdate\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.exe
+E:\AzureWikiUpdate\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.pdb
+E:\Saddam Official\Upwork\AzureDevOpsAPI\AzureWikiUpdate\bin\Debug\AzureWikiUpdate.exe.config
+E:\Saddam Official\Upwork\AzureDevOpsAPI\AzureWikiUpdate\bin\Debug\AzureWikiUpdate.exe
+E:\Saddam Official\Upwork\AzureDevOpsAPI\AzureWikiUpdate\bin\Debug\AzureWikiUpdate.pdb
+E:\Saddam Official\Upwork\AzureDevOpsAPI\AzureWikiUpdate\bin\Debug\Newtonsoft.Json.dll
+E:\Saddam Official\Upwork\AzureDevOpsAPI\AzureWikiUpdate\bin\Debug\Newtonsoft.Json.xml
+E:\Saddam Official\Upwork\AzureDevOpsAPI\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.csproj.AssemblyReference.cache
+E:\Saddam Official\Upwork\AzureDevOpsAPI\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.Properties.Resources.resources
+E:\Saddam Official\Upwork\AzureDevOpsAPI\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.csproj.GenerateResource.cache
+E:\Saddam Official\Upwork\AzureDevOpsAPI\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.csproj.CoreCompileInputs.cache
+E:\Saddam Official\Upwork\AzureDevOpsAPI\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.csproj.CopyComplete
+E:\Saddam Official\Upwork\AzureDevOpsAPI\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.exe
+E:\Saddam Official\Upwork\AzureDevOpsAPI\AzureWikiUpdate\obj\Debug\AzureWikiUpdate.pdb
