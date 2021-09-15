@@ -12,7 +12,8 @@ Replace following variables with your own Azure DevOps environment variables
             
 ## Authenticate Azure DevOps using PAT (Personal Access Token)
 following code snippet is used to authenticate console application written in C# to authenticate Azure DevOPS. read write permission should be given to PAT.
- // Create and initialize HttpClient instance.
+
+        // Create and initialize HttpClient instance.
             HttpClient client = new HttpClient();
 
             // Set Media Type of Response.
@@ -55,7 +56,7 @@ Following code snippets is used to create Azure DevOps Wiki Page with some conte
  ## Read Azure DevOps Wiki Page Content
  Following method is used to read content from Azure DevOps Wiki Page
  
- public static async Task<string> ReadWikiPageContent(HttpClient client)
+            public static async Task<string> ReadWikiPageContent(HttpClient client)
         {
             // Build the URI for creating Work Item.
             string uri = String.Join("&", String.Join("/", Azure.BASE, Azure.ORG, Azure.PROJECT, "_apis/wiki/wikis", Azure.WikiIdentifier, "pages?path=/" + Azure.PageName + "&includeContent=True"), Azure.API);
@@ -75,6 +76,30 @@ Following code snippets is used to create Azure DevOps Wiki Page with some conte
             {
                 Console.WriteLine(ex.ToString());
                 return string.Empty;
+            }
+        }
+        
+ ## Delete Azure DevOps Wiki Page
+ Following method is used to delete specific Azure DevOps Wiki Page
+ 
+            // Delete Wiki Page with its content method
+        public static async Task<bool> DeleteWikiPage(HttpClient client)
+        {
+            // Build the URI for creating Work Item.
+            string uri = String.Join("&", String.Join("/", Azure.BASE, Azure.ORG, Azure.PROJECT, "_apis/wiki/wikis", Azure.WikiIdentifier, "pages?path=/" + Azure.PageName), Azure.API);
+            try
+            {
+                // Send asynchronous POST request.
+                using (HttpResponseMessage response = await client.DeleteAsync(uri))
+                {
+                    response.EnsureSuccessStatusCode();
+                    var pageResult = response.Content.ReadAsStringAsync().Result;
+                    return (true);
+                }
+            }
+            catch (Exception ex)
+            {
+                return false;
             }
         }
            
